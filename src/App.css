@@ -14,7 +14,7 @@ div {
   padding: 20px;
   background-color: #fff;
   border-radius: 8px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 0  10px rgba(0, 0, 0, 0.1);
 }
 
 h1 {
@@ -63,7 +63,9 @@ select:focus {
 }
 
 button {
+  width: 80%;
   padding: 10px 20px;
+  margin-left: 50px;
   background-color: #4CAF50;
   color: white;
   border: none;
